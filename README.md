@@ -79,8 +79,8 @@ I enjoy building real-world projects using modern tools and learning how scalabl
 ---
 
 ## 📫 Contact Me
-- Email: yourname@email.com  
-- GitHub: https://github.com/yourusername  
+- Emailrachaelstacy00@gmail.com  
+- GitHub: https://github.com stacy rachael 
 - LinkedIn: https://linkedin.com/in/yourusername  
 
 ---
