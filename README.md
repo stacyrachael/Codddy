@@ -46,21 +46,6 @@ I enjoy building real-world projects using modern tools and learning how scalabl
 
 ## 📂 Featured Projects
 
-### 🔹 Portfolio Website (Full Stack)
-- React frontend deployed on Netlify  
-- Node.js + Express backend deployed on Render  
-- MongoDB Atlas database  
-- REST API integration  
-
-### 🔹 Student Management System
-- CRUD operations
-- Database-driven system
-- Backend logic and validation
-
-### 🔹 Network & IPv4/IPv6 Analysis Tool
-- Address validation
-- Networking fundamentals implementation
-
 ---
 
 ## 🚀 What I’m Currently Learning
